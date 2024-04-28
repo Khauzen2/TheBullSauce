@@ -30,6 +30,28 @@
   align-items: space-between;
 }
 
+.block {
+  border: black 2px solid;
+  height: 250px;
+  width: 250px;
+  border-radius: 10px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.underline {
+  height: 04px;
+  width: 4rem;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.carousel-slide {
+  width: 1000px;
+  height: 400px;
+}
+
 .navBar, .navList {
   display: flex;
   justify-content: space-between;
