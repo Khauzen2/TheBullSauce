@@ -24,19 +24,20 @@
   color: white;
 }
 
+p{
+  font-size: 14px;
+  color: #262626;
+}
+
 .navBarMenu {
   display: flex;
   justify-content: space-between;
   align-items: space-between;
 }
 
-.block {
-  border: black 2px solid;
-  height: 250px;
-  width: 250px;
-  border-radius: 10px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+.main-heading {
+  color: rgb(204, 18, 18);
+  font-size: 20px;
 }
 
 .underline {
@@ -47,9 +48,15 @@
   margin-bottom: 10px;
 }
 
-.carousel-slide {
-  width: 1000px;
-  height: 400px;
+.bg-c-light {
+  background-color: #f2f2f2;
+}
+
+.mission-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  padding: 10px;
 }
 
 .navBar, .navList {
@@ -58,6 +65,28 @@
   align-items: space-between;
   list-style: none;
   margin: 20px;
+}
+
+.container-fluid {
+    justify-content: space-between;
+    align-items: space-between;
+}
+
+.services-cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  padding: 10px;
+  margin: 10px;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none
+}
+
+.footer a {
+  color: #fff;
 }
 
 .App-link {
