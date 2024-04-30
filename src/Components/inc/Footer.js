@@ -3,13 +3,13 @@ import {Link} from 'react-router-dom';
 
 function Footer() {
     return (
-        <section clasName="section footer bg-dark text-white">
+        <section className="section footer bg-secondary text-white py-5">
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">
                         <h6>Company Information</h6>
                         <hr/>
-                        <p>
+                        <p className="text-white">
                             sdhjsdj jsdskd dhlkkhdfj khkjhkjdh jkhsjhdkjdhjhd jkhdkjdhkjdh kjhdkjsdhkdhk jdkjsdhjkd jkvcvnjc uydyduai idshsdh uywueywuiey hkdahdk jkkajs jsdjksdh
                         </p>
                     </div>

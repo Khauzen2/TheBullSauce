@@ -6,17 +6,17 @@ function Navbar() {
     return (
         <div>
 
-            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <nav class="navbar navbar-expand-lg bg-secondary">
                 <div class="container-fluid">
                     <Link to="/" class="navbar-brand"><img src={Bullsaucelogo} alt="logo"/></Link>                                                 
                 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item color-white">
                             <Link to ="/" class="nav-link active">Home</Link>
                         </li>
                         <li class="nav-item">
-                            <Link to ="/shop" class="nav-link active">Shop</Link>
+                            <Link to ="/shop" class="nav-link">Shop</Link>
                         </li>
                         <li class="nav-item">
                             <Link to="/about" class="nav-link">About</Link>

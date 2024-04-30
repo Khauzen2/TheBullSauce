@@ -76,8 +76,18 @@ p{
   display: flex;
   justify-content: space-between;
   align-items: space-between;
+  padding: 25px;
+  margin: 25px;
+}
+
+.products {
   padding: 10px;
   margin: 10px;
+}
+
+.section {
+  margin: 25px;
+  padding: 25px;
 }
 
 .footer a {
@@ -85,8 +95,8 @@ p{
   text-decoration: none
 }
 
-.footer a {
-  color: #fff;
+.footer a:hover {
+  color: #808080;
 }
 
 .App-link {

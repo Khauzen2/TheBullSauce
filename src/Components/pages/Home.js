@@ -10,7 +10,7 @@ function Home() {
     return (
         <div>
             <Slider />    
-            <section className="section">
+            <section className="section py-5">
                 <div className="container">
                     <div classsName="row">
                         <div className="col-md-12 text-center">
@@ -35,11 +35,11 @@ function Home() {
                 <div className="container">
                     <div classsName="row">
                         <div className="col-md-12 mb-5 text-center">
-                            <h1 className="main-heading">Vision, Mission and Value</h1>
+                            <h1 className="main-heading">Our Services</h1>
                             <div className="underline mx-auto"></div>
                             <div className="services-cards">
-                                <div className="col-md-4">
-                                    <div className="shadow-card">
+                                <div className="col-md-4 products">
+                                    <div className="shadow card">
                                         <img src={GhostPepper} className="w-100 border-bottom" alt="services" />
                                         <div className="card-body">
                                             <h6>The Ghost Pepper Sauce Flavour</h6>
@@ -52,8 +52,8 @@ function Home() {
                                     </div>    
                                 </div>
 
-                                <div className="col-md-4">
-                                    <div className="shadow-card">
+                                <div className="col-md-4 products">
+                                    <div className="shadow card">
                                         <img src={Jalapeno} className="w-100 border-bottom" alt="services" />
                                         <div className="card-body">
                                             <h6>The Jalapeno Sauce Flavour</h6>
@@ -66,8 +66,8 @@ function Home() {
                                     </div>    
                                 </div>    
 
-                                <div className="col-md-4">
-                                    <div className="shadow-card">
+                                <div className="col-md-4 products">
+                                    <div className="shadow card">
                                         <img src={SmokedPeriPeri} className="w-100 border-bottom" alt="services" />
                                         <div className="card-body">
                                             <h6>The Smoked Peri-Peri Sauce Flavour</h6>
