@@ -1,14 +1,14 @@
 import React from 'react';
 import {Link} from 'react-router-dom'; 
-import Bullsaucelogo from '../images/Bullsaucelogo.png';
+import BullSauceWhileLogo from '../images/BullSauceWhileLogo.jpg';
 
 function Navbar() {
     return (
         <div>
 
-            <nav class="navbar navbar-expand-lg bg-secondary">
-                <div class="container-fluid">
-                    <Link to="/" class="navbar-brand"><img src={Bullsaucelogo} alt="logo"/></Link>                                                 
+            <nav class="navbar navbar-expand-lg bg-white">
+                <div class="container-fluid py-3">
+                    <Link to="/" class="navbar-brand"><img src={BullSauceWhileLogo} className="logo-image" alt="logo"/></Link>                                                 
                 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">

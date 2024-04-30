@@ -29,6 +29,11 @@ p{
   color: #262626;
 }
 
+.logo-image {
+  width: 200px;
+  height: 150px;
+}
+
 .navBarMenu {
   display: flex;
   justify-content: space-between;
