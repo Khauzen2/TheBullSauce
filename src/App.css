@@ -30,8 +30,15 @@ p{
 }
 
 .logo-image {
-  width: 200px;
-  height: 150px;
+  width: 20rem;
+  height: 10rem;
+}
+
+@media (min-width: 400px) {
+  .logo-image {
+    width: 10rem;
+    height: 5rem;
+  }
 }
 
 .navBarMenu {
@@ -75,6 +82,13 @@ p{
 .container-fluid {
     justify-content: space-between;
     align-items: space-between;
+}
+
+.container-fluid-stores {
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .services-cards {

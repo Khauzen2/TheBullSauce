@@ -24,9 +24,14 @@ function About() {
                     <h5 className="main-heading">Our Company</h5>
                     <div className="underline"></div>
                     <p>
-                        Our company then some dummy text afterwards hsdsdgjhsg jkdhsdhsa kjsdhsdsha kjsdsjkdh kjsdhskjdhsa kjhdkjsdhajkh sjdhsakjdhksjadh jshdkjsdh jshdkhaj
+                        Our company is The Bull Sauce and it is based in the NorthCliff in Johnessburg. hvsds jfdsfds jfdsjkfhdsfh vkvkvjvkfjvkjg kdjglkgjslkgjslkgj kjlkjdfglkjdfglkjd xclkvjcxlkvjxlkvj lkjlkj
+                        Our company is The Bull Sauce and it is based in the NorthCliff in Johnessburg. hvsds jfdsfds jfdsjkfhdsfh vkvkvjvkfjvkjg kdjglkgjslkgjslkgj kjlkjdfglkjdfglkjd xclkvjcxlkvjxlkvj lkjlkj
+                        Our company is The Bull Sauce and it is based in the NorthCliff in Johnessburg. hvsds jfdsfds jfdsjkfhdsfh vkvkvjvkfjvkjg kdjglkgjslkgjslkgj kjlkjdfglkjdfglkjd xclkvjcxlkvjxlkvj lkjlkj
+                        Our company is The Bull Sauce and it is based in the NorthCliff in Johnessburg. hvsds jfdsfds jfdsjkfhdsfh vkvkvjvkfjvkjg kdjglkgjslkgjslkgj kjlkjdfglkjdfglkjd xclkvjcxlkvjxlkvj lkjlkj
+                        Dhvsds jfdsfds jfdsjkfhdsfh vkvkvjvkfjvkjg kdjglkgjslkgjslkgj kjlkjdfglkjdfglkjd xclkvjcxlkvjxlkvj lkjlkj
                     </p>
                 </div>
+
             </section>
             <Vmc />
 
