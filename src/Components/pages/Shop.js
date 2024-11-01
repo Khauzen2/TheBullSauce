@@ -18,7 +18,7 @@ function Shop() {
                 <div class="row row-cols-1 row-cols-md-2 g-4">
                 <div class="col">
                     <div class="card">
-                    <img src={NewGhostPepper} class="card-img-top" alt="Sauce-Pack"/>
+                    <a href=" "><img src={NewGhostPepper} class="card-img-top" alt="Sauce-Pack"/></a>
                     <div class="card-body">
                         <h5 class="card-title">Ghost Pepper Sauce</h5>
                         <p class="card-text">Price : Rxxx.xx</p>
