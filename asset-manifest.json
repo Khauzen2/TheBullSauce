@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TheBullSauce/static/css/main.eb7e52b4.css",
-    "main.js": "/TheBullSauce/static/js/main.ebace392.js",
+    "main.css": "/TheBullSauce/static/css/main.775c6dd6.css",
+    "main.js": "/TheBullSauce/static/js/main.0b40b8e7.js",
     "static/js/453.e1e12fff.chunk.js": "/TheBullSauce/static/js/453.e1e12fff.chunk.js",
     "static/media/NewGhostPepper.jpg": "/TheBullSauce/static/media/NewGhostPepper.dd67ccce1187b5e83d54.jpg",
     "static/media/NewSweetChilli.jpg": "/TheBullSauce/static/media/NewSweetChilli.e46a37124875132e02cb.jpg",
@@ -14,12 +14,12 @@
     "static/media/Logo.png": "/TheBullSauce/static/media/Logo.41bcc5f982ee6a10a5c6.png",
     "static/media/RootsButchery.jpg": "/TheBullSauce/static/media/RootsButchery.ce4c6c5133091b8f1f7c.jpg",
     "index.html": "/TheBullSauce/index.html",
-    "main.eb7e52b4.css.map": "/TheBullSauce/static/css/main.eb7e52b4.css.map",
-    "main.ebace392.js.map": "/TheBullSauce/static/js/main.ebace392.js.map",
+    "main.775c6dd6.css.map": "/TheBullSauce/static/css/main.775c6dd6.css.map",
+    "main.0b40b8e7.js.map": "/TheBullSauce/static/js/main.0b40b8e7.js.map",
     "453.e1e12fff.chunk.js.map": "/TheBullSauce/static/js/453.e1e12fff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb7e52b4.css",
-    "static/js/main.ebace392.js"
+    "static/css/main.775c6dd6.css",
+    "static/js/main.0b40b8e7.js"
   ]
 }
